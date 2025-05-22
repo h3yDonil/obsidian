@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "383085b2b43786a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d45619f6832ba5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "342fdf06dc678642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA notes/SDLC (Software development lifecycle)/Тестирование.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тестирование"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af948d00de53c0d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "79ccb9732f31e813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea856494d900e259",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c9c1f009560c61c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e966913659eb3737",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e3592bcdfc824f75",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7e394acfb1610c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a9c13d9e8c04694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QA notes/SDLC (Software development lifecycle)/Тестирование.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Тестирование"
+            }
+          },
+          {
+            "id": "1d33b2fdf06ac9c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "f4d474e805236d8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5a55cc3e85e59934",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false
+    }
+  },
+  "active": "342fdf06dc678642",
+  "lastOpenFiles": [
+    "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/IMG_20241218_092320.jpg",
+    "QA notes/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
+    "QA notes/SDLC (Software development lifecycle)/Разработка.md",
+    "QA notes/SDLC (Software development lifecycle)/Проектирование.md",
+    "QA notes/SDLC (Software development lifecycle)/Требования.md",
+    "QA notes/SDLC (Software development lifecycle)/Релиз.md",
+    "QA notes/SDLC (Software development lifecycle)/Поддержка.md",
+    "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/STLC – Software testing lifecycle.md",
+    "QA notes/SDLC (Software development lifecycle)/Тестирование.md",
+    "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle",
+    "QA notes/SDLC (Software development lifecycle)",
+    "Без названия.canvas",
+    "QA notes/What is testing/Без названия.md",
+    "English teaching/Evgeniy/2 lesson.md",
+    "QA notes/What is testing",
+    "QA notes",
+    "English teaching/Evgeniy/1 lesson.md",
+    "QA notes/Forms/How to test forms.md",
+    "QA notes/SPA.md",
+    "QA notes/Мультиязычность.md",
+    "QA notes/html css notes.md",
+    "QA notes/Network/How to test network.md",
+    "English teaching/Evgeniy",
+    "English teaching",
+    "QA notes/Network/Internet speed note (Mozilla dev tools).md",
+    "2025-04-27.md",
+    "QA notes/Useful websites for testing.md",
+    "QA notes/Forms",
+    "QA notes/Network",
+    "promo hexlet.md",
+    "QA notes"
+  ]
+}
