@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA notes/Теория/Методологии разработки ПО/Методологии разработки программного обеспечения.md",
-                "mode": "source",
+                "file": "QA notes/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Методологии разработки программного обеспечения"
+              "title": "Тестирование с помощью техник тест-дизайна"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "QA notes/Теория/Методологии разработки ПО/Методологии разработки программного обеспечения.md",
+            "file": "QA notes/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,11 +156,14 @@
   },
   "active": "11a362c043b0c717",
   "lastOpenFiles": [
+    "QA notes/Теория/SDLC (Software development lifecycle)/Требования.md",
     "QA notes/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
+    "QA notes/Теория/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
     "QA notes/Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
+    "Lineage 2 Bot notes/What I learned from this project.md",
+    "QA notes/Теория/Методологии разработки ПО/Методологии разработки программного обеспечения.md",
     "QA notes/Теория/Принципы тестирования/Основные принципы тестирования.md",
     "QA notes/Теория/SDLC (Software development lifecycle)/Тестирование.md",
-    "QA notes/Теория/SDLC (Software development lifecycle)/Требования.md",
     "QA notes/Теория/Виды окружений/Виды окружений.md",
     "QA notes/Теория/SDLC (Software development lifecycle)/Поддержка.md"
   ]
