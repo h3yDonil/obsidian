@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
-                "mode": "preview",
+                "file": "Изучение английского/Слова и текста/Writing a bug report.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STLC – Software testing lifecycle"
+              "title": "Writing a bug report"
             }
           }
         ]
@@ -167,12 +167,17 @@
   },
   "active": "038dada9c96ffab2",
   "lastOpenFiles": [
+    "Промпты для нейросетей/Промпты для изучения английского.md",
+    "Изучение английского/Слова и текста/Writing a bug report.md",
+    "Изучение английского/Слова и текста",
+    "Изучение английского",
+    "Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
+    "Промпты для нейросетей",
+    "Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
     "Теория/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
     "Теория/SDLC (Software development lifecycle)/Требования.md",
-    "Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
     "Вопросы и ответы для собеседований/Зачем нужно тестирование.md",
     "Методологии разработки ПО/Методологии разработки программного обеспечения.md",
-    "Без названия",
     "Вопросы и ответы для собеседований",
     "Новая папка",
     "Теория/Методологии разработки ПО/Методологии разработки программного обеспечения.md",
@@ -197,11 +202,6 @@
     "Теория/Виды тестирования/Нефункциональное тестирование",
     "Теория/Виды тестирования",
     "Теория/Виды окружений/Виды окружений.md",
-    "Теория/Виды окружений/TEST.md",
-    "Теория/Виды окружений/PROD.md",
-    "Теория/Виды окружений/PRE-PROD.md",
-    "Теория/Виды окружений/LOCAL.md",
-    "Теория/Виды окружений",
-    "Теория/SDLC (Software development lifecycle)"
+    "Теория/Виды окружений/TEST.md"
   ]
 }
