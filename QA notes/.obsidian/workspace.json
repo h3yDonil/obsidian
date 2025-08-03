@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d664f4859e78e18",
+        "id": "6a363a97ee074b52",
         "type": "tabs",
         "children": [
           {
-            "id": "40918030a0a7c231",
+            "id": "52123526244a9433",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5687b74969f0198c",
+  "active": "3e5d82a60891ad3b",
   "lastOpenFiles": [
     "Без названия.canvas",
     "Изучение английского/Слова и текста/Writing a bug report.md",

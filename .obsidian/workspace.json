@@ -11,14 +11,10 @@
             "id": "342fdf06dc678642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QA notes/Виды тестирования/Нефункциональное тестирование/Проверка удобства (Usability).md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Проверка удобства (Usability)"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -164,10 +160,11 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "audio-recorder:Начать/остановить запись": false
+      "audio-recorder:Начать/остановить запись": false,
+      "iconic:Открыть свод правил": false
     }
   },
-  "active": "342fdf06dc678642",
+  "active": "ea856494d900e259",
   "lastOpenFiles": [
     "QA notes/Виды тестирования/Нефункциональное тестирование/Тестирование производительности (performance testing).md",
     "QA notes/Виды тестирования/Нефункциональное тестирование/Нефункциональное тестирование.md",

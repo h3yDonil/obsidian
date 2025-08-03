@@ -1,0 +1,65 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Lineage 2 Bot notes": {
+      "icon": "bot-glyph",
+      "unsynced": [
+        "d7bd990dd16df0a4"
+      ]
+    },
+    "QA notes": {
+      "icon": "lucide-bug-off",
+      "color": "red",
+      "unsynced": [
+        "d7bd990dd16df0a4"
+      ]
+    },
+    "Изучение английского": {
+      "icon": "lucide-globe-2",
+      "unsynced": [
+        "d7bd990dd16df0a4"
+      ],
+      "color": "blue"
+    },
+    "Промпты для нейросетей": {
+      "icon": "lucide-message-circle-more",
+      "unsynced": [
+        "d7bd990dd16df0a4"
+      ],
+      "color": "green"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}
