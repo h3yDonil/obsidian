@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d45619f6832ba5a",
+        "id": "2baec362b8dd9dff",
         "type": "tabs",
         "children": [
           {
-            "id": "342fdf06dc678642",
+            "id": "046ed6b11c09d66b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Промпты для нейросетей/Промпты для изучения английского.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Промпты для изучения английского"
             }
           }
         ]
@@ -164,8 +168,16 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "ea856494d900e259",
+  "active": "046ed6b11c09d66b",
   "lastOpenFiles": [
+    "Изучение английского/QA notes in English/STLC.md",
+    "QA notes/Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
+    "Изучение английского/QA notes in English",
+    "Изучение английского/Тренировка перевода/Без названия",
+    "Промпты для нейросетей/Промпты для изучения английского.md",
+    "Изучение английского/Слова и текста/Writing a bug report.md",
+    "QA notes/Теория/SDLC (Software development lifecycle)/Тестирование.md",
+    "QA notes/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
     "QA notes/Виды тестирования/Нефункциональное тестирование/Тестирование производительности (performance testing).md",
     "QA notes/Виды тестирования/Нефункциональное тестирование/Нефункциональное тестирование.md",
     "QA notes/Виды тестирования/Функциональное тестирование/Расширенное тестирование (extended).md",
@@ -188,11 +200,6 @@
     "QA notes/SDLC (Software development lifecycle)/Требования.md",
     "QA notes/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
     "Тестирование локализации (L10N) и интернационализации (I18N).md",
-    "QA notes/Принципы тестирования/Основные принципы тестирования.md",
-    "QA notes/Виды окружений/Виды окружений.md",
-    "QA notes/Виды тестирования/Нагрузочное (load testing).md",
-    "QA notes/Виды тестирования/Стресс (stress testing).md",
-    "Дымовое тестирование.md",
     "QA notes/Виды тестирования",
     "QA notes/Принципы тестирования",
     "QA notes/Виды окружений",
@@ -200,8 +207,6 @@
     "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/IMG_20241218_092320.jpg",
     "QA notes/STLC – Software testing lifecycle",
     "QA notes/SDLC (Software development lifecycle)",
-    "Без названия.canvas",
-    "QA notes/What is testing",
-    "QA notes"
+    "Без названия.canvas"
   ]
 }
