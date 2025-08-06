@@ -1,7 +1,7 @@
 {
   "biggerIcons": "mobile",
   "clickableIcons": "desktop",
-  "showAllFileIcons": false,
+  "showAllFileIcons": true,
   "showAllFolderIcons": false,
   "minimalFolderIcons": true,
   "showMarkdownTabIcons": true,
@@ -31,29 +31,40 @@
     "Lineage 2 Bot notes": {
       "icon": "bot-glyph",
       "unsynced": [
-        "d7bd990dd16df0a4"
+        "d7bd990dd16df0a4",
+        "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
       ]
     },
     "QA notes": {
       "icon": "lucide-bug-off",
       "color": "red",
       "unsynced": [
-        "d7bd990dd16df0a4"
+        "d7bd990dd16df0a4",
+        "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
       ]
     },
     "Изучение английского": {
       "icon": "lucide-globe-2",
       "unsynced": [
-        "d7bd990dd16df0a4"
+        "d7bd990dd16df0a4",
+        "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
       ],
       "color": "blue"
     },
     "Промпты для нейросетей": {
       "icon": "lucide-message-circle-more",
       "unsynced": [
-        "d7bd990dd16df0a4"
+        "d7bd990dd16df0a4",
+        "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
       ],
       "color": "green"
+    },
+    "Репетиторство": {
+      "icon": "lucide-user-round-cog",
+      "color": "green",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
+      ]
     }
   },
   "bookmarkIcons": {},
