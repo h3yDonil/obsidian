@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Промпты для нейросетей/Промпты для изучения английского.md",
+                "file": "QA notes/Теория/Тестовая документация/Работа с требованиями.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Промпты для изучения английского"
+              "title": "Работа с требованиями"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.501522064209
+    "width": 341.50694274902344
   },
   "right": {
     "id": "e3592bcdfc824f75",
@@ -168,15 +168,23 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "046ed6b11c09d66b",
+  "active": "ea856494d900e259",
   "lastOpenFiles": [
+    "QA notes/Теория/SDLC (Software development lifecycle)/Тестирование.md",
+    "QA notes/Теория/Тестовая документация/Работа с требованиями.md",
+    "QA notes/Теория/Тестовая документация",
+    "Репетиторство/Text about dogs.md",
+    "Репетиторство",
+    "Изучение английского/Слова и текста/Children are wonderful.md",
+    "Untitled.md",
+    "QA notes/Теория/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
+    "QA notes/Вопросы и ответы для собеседований/Зачем нужно тестирование.md",
     "Изучение английского/QA notes in English/STLC.md",
+    "Промпты для нейросетей/Промпты для изучения английского.md",
     "QA notes/Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
     "Изучение английского/QA notes in English",
     "Изучение английского/Тренировка перевода/Без названия",
-    "Промпты для нейросетей/Промпты для изучения английского.md",
     "Изучение английского/Слова и текста/Writing a bug report.md",
-    "QA notes/Теория/SDLC (Software development lifecycle)/Тестирование.md",
     "QA notes/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
     "QA notes/Виды тестирования/Нефункциональное тестирование/Тестирование производительности (performance testing).md",
     "QA notes/Виды тестирования/Нефункциональное тестирование/Нефункциональное тестирование.md",
@@ -194,19 +202,11 @@
     "QA notes/Виды тестирования/Нефункциональное тестирование/Проверка удобства (Usability).md",
     "QA notes/Виды тестирования/Нефункциональное тестирование/Инсталляционное тестирование (installation testing).md",
     "QA notes/Виды тестирования/Функциональное тестирование",
-    "QA notes/SDLC (Software development lifecycle)/Релиз.md",
-    "QA notes/SDLC (Software development lifecycle)/Разработка.md",
-    "QA notes/SDLC (Software development lifecycle)/Проектирование.md",
-    "QA notes/SDLC (Software development lifecycle)/Требования.md",
-    "QA notes/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
-    "Тестирование локализации (L10N) и интернационализации (I18N).md",
     "QA notes/Виды тестирования",
     "QA notes/Принципы тестирования",
     "QA notes/Виды окружений",
     "Lineage 2 Bot notes",
     "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/IMG_20241218_092320.jpg",
-    "QA notes/STLC – Software testing lifecycle",
-    "QA notes/SDLC (Software development lifecycle)",
     "Без названия.canvas"
   ]
 }
