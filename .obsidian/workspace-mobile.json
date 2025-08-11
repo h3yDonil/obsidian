@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA notes/Теория/Тестовая документация/Работа с требованиями.md",
+                "file": "QA notes/Теория/Тестовая документация/ЧЕК-ЛИСТ.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с требованиями"
+              "title": "ЧЕК-ЛИСТ"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "QA notes/Теория/Тестовая документация/Работа с требованиями.md",
+            "file": "QA notes/Теория/Тестовая документация/ЧЕК-ЛИСТ.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,8 +157,11 @@
   },
   "active": "0afa7a46251dc14f",
   "lastOpenFiles": [
-    "QA notes/Теория/Методологии разработки ПО/Методологии разработки программного обеспечения.md",
+    "Репетиторство/Text about dogs.md",
+    "QA notes/Теория/Тестовая документация/ЧЕК-ЛИСТ.md",
+    "2025-08-10.md",
     "QA notes/Теория/Тестовая документация/Работа с требованиями.md",
+    "QA notes/Теория/Методологии разработки ПО/Методологии разработки программного обеспечения.md",
     "Изучение английского/QA notes in English/STLC.md",
     "Изучение английского/Слова и текста/Children are wonderful.md",
     "QA notes/Теория/Тестовая документация",
@@ -172,7 +175,6 @@
     "QA notes/Теория/Виды тестирования/Функциональное тестирование/Дымовое тестирование(smoke test).md",
     "QA notes/Теория/Виды тестирования/Функциональное тестирование/Функциональное тестирование.md",
     "QA notes/Теория/Классификация тестирования/Позитивное и негативное.md",
-    "Репетиторство/Text about dogs.md",
     "Untitled.md",
     "Репетиторство",
     "QA notes/Теория/Классификация тестирования/Классификация по цели тестирования.md",
@@ -182,8 +184,6 @@
     "QA notes/Теория/SDLC (Software development lifecycle)/Требования.md",
     "QA notes/Теория/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
     "QA notes/Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
-    "Lineage 2 Bot notes/What I learned from this project.md",
-    "QA notes/Теория/Принципы тестирования/Основные принципы тестирования.md",
-    "QA notes/Теория/SDLC (Software development lifecycle)/Тестирование.md"
+    "Lineage 2 Bot notes/What I learned from this project.md"
   ]
 }
