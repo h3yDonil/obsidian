@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2baec362b8dd9dff",
+        "id": "0876e2a78d5d168f",
         "type": "tabs",
         "children": [
           {
-            "id": "046ed6b11c09d66b",
+            "id": "0e4b84c5cb622a9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA notes/Теория/Тестовая документация/Работа с требованиями.md",
+                "file": "Projects/StoreManager/access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с требованиями"
+              "title": "access"
             }
           }
         ]
@@ -168,11 +168,21 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "046ed6b11c09d66b",
+  "active": "0e4b84c5cb622a9f",
   "lastOpenFiles": [
-    "Изучение английского/Слова и текста/Children are wo.mp3",
-    "QA notes/Теория/Тестовая документация/Чек-лист. Тест-кейс.md",
+    "Projects/StoreManager/access.md",
+    "Projects/StoreManager/Links/Последовательность прохождения практики.md",
+    "Projects/StoreManager/Чек-лист по прохождению практики.md",
+    "2025-08-13.md",
+    "Projects/StoreManager/Links/boosty.md",
+    "Projects/StoreManager/2025-08-10.md",
+    "Projects/StoreManager/Links",
+    "Projects/StoreManager",
+    "Projects",
     "QA notes/Теория/Тестовая документация/Работа с требованиями.md",
+    "QA notes/Теория/Тестовая документация/ЧЕК-ЛИСТ.md",
+    "QA notes/Теория/Тестовая документация/Чек-лист. Тест-кейс.md",
+    "Изучение английского/Слова и текста/Children are wo.mp3",
     "QA notes/Теория/SDLC (Software development lifecycle)/Тестирование.md",
     "QA notes/Теория/Тестовая документация",
     "Репетиторство/Text about dogs.md",
@@ -194,18 +204,8 @@
     "QA notes/Виды тестирования/Функциональное тестирование/Тестирование критического пути (critical path).md",
     "QA notes/Виды тестирования/Функциональное тестирование/Дымовое тестирование(smoke test).md",
     "QA notes/Виды тестирования/Функциональное тестирование/Функциональное тестирование.md",
-    "QA notes/SDLC (Software development lifecycle)/Тестирование.md",
-    "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
-    "QA notes/SDLC (Software development lifecycle)/Поддержка.md",
-    "QA notes/Виды тестирования/Нефункциональное тестирование/Тестирование доступности(accessibility).md",
     "QA notes/Виды тестирования/Нефункциональное тестирование",
-    "QA notes/Виды тестирования/Нефункциональное тестирование/Тестирование локализации (L10N) и интернационализации (I18N).md",
-    "QA notes/Виды тестирования/Нефункциональное тестирование/Тестирование безопасности (security testing).md",
     "QA notes/Виды тестирования/Функциональное тестирование",
-    "QA notes/Виды тестирования",
-    "QA notes/Принципы тестирования",
-    "QA notes/Виды окружений",
-    "Lineage 2 Bot notes",
     "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/IMG_20241218_092320.jpg",
     "Без названия.canvas"
   ]
