@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/StoreManager/access.md",
+                "file": "Промпты для нейросетей/Промпты для изучения английского.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "access"
+              "title": "Промпты для изучения английского"
             }
           }
         ]
@@ -171,8 +171,8 @@
   "active": "0e4b84c5cb622a9f",
   "lastOpenFiles": [
     "Projects/StoreManager/access.md",
-    "Projects/StoreManager/Links/Последовательность прохождения практики.md",
     "Projects/StoreManager/Чек-лист по прохождению практики.md",
+    "Projects/StoreManager/Links/Последовательность прохождения практики.md",
     "2025-08-13.md",
     "Projects/StoreManager/Links/boosty.md",
     "Projects/StoreManager/2025-08-10.md",
