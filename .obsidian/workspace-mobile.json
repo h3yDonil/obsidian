@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Промпты для нейросетей/Промпты для изучения английского.md",
+                "file": "QA notes/Теория/SDLC (Software development lifecycle)/Поддержка.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Промпты для изучения английского"
+              "title": "Поддержка"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "QA notes/Теория/Тестовая документация/ЧЕК-ЛИСТ.md",
+            "file": "QA notes/Теория/SDLC (Software development lifecycle)/Поддержка.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,6 +157,20 @@
   },
   "active": "0afa7a46251dc14f",
   "lastOpenFiles": [
+    "QA notes/Теория/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
+    "QA notes/Теория/SDLC (Software development lifecycle)/Поддержка.md",
+    "QA notes/Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
+    "QA notes/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
+    "QA notes/Теория/Виды окружений/Виды окружений.md",
+    "QA notes/Теория/Классификация тестирования/Классификация по цели тестирования.md",
+    "QA notes/Теория/Классификация тестирования/Классификация тестирования по запуску кода на исполнение.md",
+    "QA notes/Теория/Классификация тестирования/Классификация тестирования по уровню детализации ПО.md",
+    "QA notes/Теория/Виды тестирования/Функциональное тестирование/Тестирование критического пути (critical path).md",
+    "Промпты для нейросетей/Промпты для изучения английского.md",
+    "QA notes/Теория/Баг и баг-репорт/Уровни серьезности бага(дефекта).md",
+    "QA notes/Теория/Виды окружений/TEST.md",
+    "QA notes/Теория/Баг и баг-репорт",
+    "Баг и баг-репорт",
     "QA notes/Теория/Тестовая документация/ЧЕК-ЛИСТ.md",
     "Репетиторство/Text about dogs.md",
     "2025-08-10.md",
@@ -167,23 +181,11 @@
     "QA notes/Теория/Тестовая документация",
     "QA notes/Теория/Виды окружений/LOCAL.md",
     "QA notes/Теория/Виды тестирования/Нефункциональное тестирование/Тестирование производительности (performance testing).md",
-    "Промпты для нейросетей/Промпты для изучения английского.md",
     "QA notes/Теория/Виды окружений/DEVELOPMENT.md",
-    "QA notes/Теория/Классификация тестирования/Классификация тестирования по запуску кода на исполнение.md",
     "QA notes/Теория/Виды тестирования/Нефункциональное тестирование/Нефункциональное тестирование.md",
-    "QA notes/Теория/Классификация тестирования/Классификация тестирования по уровню детализации ПО.md",
     "QA notes/Теория/Виды тестирования/Функциональное тестирование/Дымовое тестирование(smoke test).md",
     "QA notes/Теория/Виды тестирования/Функциональное тестирование/Функциональное тестирование.md",
     "QA notes/Теория/Классификация тестирования/Позитивное и негативное.md",
-    "Untitled.md",
-    "Репетиторство",
-    "QA notes/Теория/Классификация тестирования/Классификация по цели тестирования.md",
-    "QA notes/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
-    "Untitled 1.md",
-    "QA notes/Теория/Черный, серый, белый ящик/Черный, серый, белый ящик.md",
-    "QA notes/Теория/SDLC (Software development lifecycle)/Требования.md",
-    "QA notes/Теория/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
-    "QA notes/Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
-    "Lineage 2 Bot notes/What I learned from this project.md"
+    "Репетиторство"
   ]
 }
