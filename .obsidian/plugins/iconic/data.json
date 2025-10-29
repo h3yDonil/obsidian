@@ -28,14 +28,7 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Lineage 2 Bot notes": {
-      "icon": "bot-glyph",
-      "unsynced": [
-        "d7bd990dd16df0a4",
-        "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
-      ]
-    },
-    "Projects": {
+    "1. Projects": {
       "icon": "lucide-library-big",
       "color": "purple",
       "unsynced": [
@@ -43,7 +36,14 @@
         "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
       ]
     },
-    "QA notes": {
+    "1. Projects/RVbooker/Вопросы": {
+      "icon": "lucide-message-circle-question",
+      "unsynced": [
+        "d7bd990dd16df0a4"
+      ],
+      "color": "red"
+    },
+    "2. QA theory": {
       "icon": "lucide-bug-off",
       "color": "red",
       "unsynced": [
@@ -51,13 +51,27 @@
         "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
       ]
     },
-    "Изучение английского": {
+    "3. Learning English": {
       "icon": "lucide-globe-2",
       "unsynced": [
         "d7bd990dd16df0a4",
         "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
       ],
       "color": "blue"
+    },
+    "Lineage 2 Bot notes": {
+      "icon": "bot-glyph",
+      "unsynced": [
+        "d7bd990dd16df0a4",
+        "/storage/emulated/0/Documents/Vault/obsidian-master (1)"
+      ]
+    },
+    "Setting up testing envirenment": {
+      "icon": "lucide-settings",
+      "color": "pink",
+      "unsynced": [
+        "d7bd990dd16df0a4"
+      ]
     },
     "Промпты для нейросетей": {
       "icon": "lucide-message-circle-more",

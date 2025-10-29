@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d38751a1eee5a3a6",
+            "id": "430e29de8e19f3bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Промпты для нейросетей/Промпты для изучения английского.md",
+                "file": "Репетиторство/Text about dogs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Промпты для изучения английского"
+              "title": "Text about dogs"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "тестирование документации",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lineage 2 Bot notes/What I learned from this project.md",
+                "file": "Репетиторство/Text about dogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для What I learned from this project"
+              "title": "Обратные ссылки для Text about dogs"
             }
           },
           {
@@ -153,11 +153,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -168,44 +168,44 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "d38751a1eee5a3a6",
+  "active": "430e29de8e19f3bf",
   "lastOpenFiles": [
+    "1. Projects/RVbooker/Tasks/Тестирование документации.md",
+    "1. Projects/RVbooker/Requirements.md",
+    "1. Projects/RVbooker/Tasks/Тестирование документации ДАНЯ.md",
+    "1. Projects/RVbooker/Вопросы/Вопросы по требованиям.md",
+    "Setting up testing envirenment/Chrome extensions for testing.md",
+    "Setting up testing envirenment/Без названия 1.md",
+    "1. Projects/RVbooker/Ревью тест-кейсов.md",
+    "Setting up testing envirenment",
+    "1. Projects/RVbooker/Без названия",
     "Трудоустройство/Резюме QA engineer.md",
-    "QA notes/Теория/Баг и баг-репорт/Уровни серьезности бага(дефекта).md",
-    "QA notes/Теория/Баг и баг-репорт",
-    "QA notes/Теория/Черный, серый, белый ящик/Черный, серый, белый ящик.md",
+    "1. Projects/RVbooker/Вопросы",
+    "Projects/RVbooker/Tasks/Без названия.md",
+    "3. Learning English/Без названия",
+    "2. QA theory/Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
+    "1. Projects/RVbooker/Tasks",
+    "Projects/RVbooker/Без названия.md",
+    "1. Projects/RVbooker",
+    "Projects/StoreManager/Без названия",
+    "2. QA theory/Теория/Классификация тестирования/Классификация тестирования по запуску кода на исполнение.md",
+    "Projects/RV.md",
+    "2. QA theory/Теория/Классификация тестирования/Позитивное и негативное.md",
+    "2. QA theory/Теория/Виды тестирования/Нефункциональное тестирование/Нефункциональное тестирование.md",
+    "2. QA theory/Теория/Виды тестирования/Нефункциональное тестирование/Проверка удобства (Usability).md",
+    "2. QA theory/Теория/Баг и баг-репорт/Уровни серьезности бага(дефекта).md",
+    "Промпты для нейросетей/Промпты для изучения английского.md",
+    "2. QA theory/Теория/Баг и баг-репорт",
+    "2. QA theory/Теория/Черный, серый, белый ящик/Черный, серый, белый ящик.md",
     "Трудоустройство",
-    "QA notes/Теория/Тестовая документация/Работа с требованиями.md",
-    "QA notes/Теория/Тестовая документация/ЧЕК-ЛИСТ.md",
+    "2. QA theory/Теория/Тестовая документация/Работа с требованиями.md",
+    "2. QA theory/Теория/Тестовая документация/ЧЕК-ЛИСТ.md",
     "Projects/StoreManager/access.md",
     "Projects/StoreManager/Вопросы по проекту.md",
     "Projects/StoreManager/Чек-лист по прохождению практики.md",
     "Projects/StoreManager/Links/Последовательность прохождения практики.md",
     "Projects/StoreManager/Links/boosty.md",
-    "Репетиторство/Text about dogs.md",
-    "Промпты для нейросетей/Промпты для изучения английского.md",
     "Projects/StoreManager/New_Test_Cases.markdown",
-    "2025-08-13.md",
-    "Projects/StoreManager/2025-08-10.md",
-    "Projects/StoreManager/Links",
-    "Projects/StoreManager",
-    "Projects",
-    "QA notes/Теория/Тестовая документация/Чек-лист. Тест-кейс.md",
-    "Изучение английского/Слова и текста/Children are wo.mp3",
-    "QA notes/Теория/SDLC (Software development lifecycle)/Тестирование.md",
-    "QA notes/Теория/Тестовая документация",
-    "Репетиторство",
-    "Изучение английского/Слова и текста/Children are wonderful.md",
-    "Untitled.md",
-    "QA notes/Теория/SDLC (Software development lifecycle)/SDLC (Software development lifecycle).md",
-    "QA notes/Вопросы и ответы для собеседований/Зачем нужно тестирование.md",
-    "Изучение английского/QA notes in English/STLC.md",
-    "QA notes/Теория/SDLC (Software development lifecycle)/STLC – Software testing lifecycle.md",
-    "Изучение английского/QA notes in English",
-    "Изучение английского/Слова и текста/Writing a bug report.md",
-    "QA notes/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
-    "QA notes/Виды тестирования/Нефункциональное тестирование/Тестирование производительности (performance testing).md",
-    "QA notes/Виды тестирования/Нефункциональное тестирование/Нефункциональное тестирование.md",
     "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/IMG_20241218_092320.jpg",
     "Без названия.canvas"
   ]
