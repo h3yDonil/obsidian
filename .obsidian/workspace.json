@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Репетиторство/Text about dogs.md",
+                "file": "1. Projects/RVbooker/Tasks/Анализ требований Даня.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Text about dogs"
+              "title": "Анализ требований Даня"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Репетиторство/Text about dogs.md",
+                "file": "1. Projects/RVbooker/Tasks/Анализ требований Даня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Text about dogs"
+              "title": "Обратные ссылки для Анализ требований Даня"
             }
           },
           {
@@ -170,13 +170,16 @@
   },
   "active": "430e29de8e19f3bf",
   "lastOpenFiles": [
+    "1. Projects/RVbooker/Tasks/Анализ требований Лиза.md",
+    "1. Projects/RVbooker/Tasks/Анализ требований Даня.md",
+    "1. Projects/RVbooker/Tasks/Требования к полям.md",
     "1. Projects/RVbooker/Tasks/Тестирование документации.md",
     "1. Projects/RVbooker/Requirements.md",
-    "1. Projects/RVbooker/Tasks/Тестирование документации ДАНЯ.md",
-    "1. Projects/RVbooker/Вопросы/Вопросы по требованиям.md",
+    "Промпты для нейросетей/Промпты для изучения английского.md",
+    "Репетиторство/Text about dogs.md",
+    "1. Projects/RVbooker/Ревью тест-кейсов.md",
     "Setting up testing envirenment/Chrome extensions for testing.md",
     "Setting up testing envirenment/Без названия 1.md",
-    "1. Projects/RVbooker/Ревью тест-кейсов.md",
     "Setting up testing envirenment",
     "1. Projects/RVbooker/Без названия",
     "Трудоустройство/Резюме QA engineer.md",
@@ -194,7 +197,6 @@
     "2. QA theory/Теория/Виды тестирования/Нефункциональное тестирование/Нефункциональное тестирование.md",
     "2. QA theory/Теория/Виды тестирования/Нефункциональное тестирование/Проверка удобства (Usability).md",
     "2. QA theory/Теория/Баг и баг-репорт/Уровни серьезности бага(дефекта).md",
-    "Промпты для нейросетей/Промпты для изучения английского.md",
     "2. QA theory/Теория/Баг и баг-репорт",
     "2. QA theory/Теория/Черный, серый, белый ящик/Черный, серый, белый ящик.md",
     "Трудоустройство",
@@ -203,8 +205,6 @@
     "Projects/StoreManager/access.md",
     "Projects/StoreManager/Вопросы по проекту.md",
     "Projects/StoreManager/Чек-лист по прохождению практики.md",
-    "Projects/StoreManager/Links/Последовательность прохождения практики.md",
-    "Projects/StoreManager/Links/boosty.md",
     "Projects/StoreManager/New_Test_Cases.markdown",
     "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/IMG_20241218_092320.jpg",
     "Без названия.canvas"
