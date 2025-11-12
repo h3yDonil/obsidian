@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d0ee7c2c92a6042",
+            "id": "33f0a9e33d2a210a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. QA theory/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
+                "file": "Cheat-lists/Fields validation cheat-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Тестирование с помощью техник тест-дизайна"
+              "title": "Fields validation cheat-list"
             }
           },
           {
-            "id": "9db361a248a94e07",
+            "id": "47fcaab80d10ef85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "Анализ требований"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/RVbooker/Tasks/Анализ требований.md",
+                "file": "Cheat-lists/Fields validation cheat-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Анализ требований"
+              "title": "Обратные ссылки для Fields validation cheat-list"
             }
           },
           {
@@ -183,23 +182,24 @@
       "iconic:Открыть свод правил": false
     }
   },
-  "active": "9db361a248a94e07",
+  "active": "33f0a9e33d2a210a",
   "lastOpenFiles": [
+    "1. Projects/RVbooker/Tasks/Анализ требований.md",
+    "1. Projects/RVbooker/Вопросы/Вопросы для созвона.md",
+    "1. Projects/RVbooker/Requirements.md",
+    "Cheat-lists/Fields validation cheat-list.md",
     "2. QA theory/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
     "2. QA theory/Теория/Принципы тестирования/Основные принципы тестирования.md",
     "2. QA theory/Теория/Методологии разработки ПО/Методологии разработки программного обеспечения.md",
     "2. QA theory/Теория/Классификация тестирования/Классификация тестирования по уровню детализации ПО.md",
     "2. QA theory/Теория/Классификация тестирования/Классификация по цели тестирования.md",
     "2. QA theory/Теория/Баг и баг-репорт/Уровни серьезности бага(дефекта).md",
-    "Cheat-lists/Fields validation.md",
     "2. QA theory/Вопросы и ответы для собеседований/Зачем нужно тестирование.md",
-    "1. Projects/RVbooker/Tasks/Анализ требований.md",
     "1. Projects/RVbooker/Tasks/Анализ требований Лиза.md",
     "Setting up testing envirenment/Chrome extensions for testing.md",
     "Без названия.base",
     "1. Projects/RVbooker/Tasks/Требования к полям.md",
     "Cheat-lists",
-    "1. Projects/RVbooker/Requirements.md",
     "1. Projects/RVbooker/Tasks/Тестирование документации.md",
     "Промпты для нейросетей/Промпты для изучения английского.md",
     "Репетиторство/Text about dogs.md",
@@ -219,7 +219,6 @@
     "2. QA theory/Теория/Классификация тестирования/Классификация тестирования по запуску кода на исполнение.md",
     "Projects/RV.md",
     "2. QA theory/Теория/Классификация тестирования/Позитивное и негативное.md",
-    "2. QA theory/Теория/Виды тестирования/Нефункциональное тестирование/Нефункциональное тестирование.md",
     "2. QA theory/Теория/Баг и баг-репорт",
     "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/IMG_20241218_092320.jpg",
     "Без названия.canvas"
