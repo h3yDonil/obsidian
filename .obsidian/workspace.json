@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat-lists/Fields validation cheat-list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fields validation cheat-list"
-            }
-          },
-          {
-            "id": "47fcaab80d10ef85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "1. Projects/RVbooker/Tasks/Анализ требований.md",
                 "mode": "source",
                 "source": false
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat-lists/Fields validation cheat-list.md",
+                "file": "1. Projects/RVbooker/Tasks/Анализ требований.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Fields validation cheat-list"
+              "title": "Обратные ссылки для Анализ требований"
             }
           },
           {
@@ -184,10 +170,11 @@
   },
   "active": "33f0a9e33d2a210a",
   "lastOpenFiles": [
+    "Cheat-lists/Fields validation cheat-list.md",
+    "1. Projects/RVbooker/Tasks/gemini анализ требований.md",
     "1. Projects/RVbooker/Tasks/Анализ требований.md",
     "1. Projects/RVbooker/Вопросы/Вопросы для созвона.md",
     "1. Projects/RVbooker/Requirements.md",
-    "Cheat-lists/Fields validation cheat-list.md",
     "2. QA theory/Теория/Тестирование с помощью техник тест-дизайна/Тестирование с помощью техник тест-дизайна.md",
     "2. QA theory/Теория/Принципы тестирования/Основные принципы тестирования.md",
     "2. QA theory/Теория/Методологии разработки ПО/Методологии разработки программного обеспечения.md",
@@ -218,7 +205,6 @@
     "Projects/StoreManager/Без названия",
     "2. QA theory/Теория/Классификация тестирования/Классификация тестирования по запуску кода на исполнение.md",
     "Projects/RV.md",
-    "2. QA theory/Теория/Классификация тестирования/Позитивное и негативное.md",
     "2. QA theory/Теория/Баг и баг-репорт",
     "QA notes/SDLC (Software development lifecycle)/STLC – Software testing lifecycle/IMG_20241218_092320.jpg",
     "Без названия.canvas"
